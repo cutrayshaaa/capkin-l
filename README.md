@@ -1,7 +1,6 @@
 
-  # SIKUDAMAI
 
-  This is a code bundle for SIKUDAMAI. The original project is available at https://www.figma.com/design/QRGO5XF1RDiMa5Lqq8XUnH/SIKUDAMAI.
+
 
   ## Running the code
 
